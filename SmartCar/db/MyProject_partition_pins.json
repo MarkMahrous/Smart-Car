@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "motor",
+					"strict" : false
+				},
+				{
+					"name" : "seven1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seven1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seven1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seven1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seven1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seven1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seven2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seven2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seven2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seven3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seven3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seven3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seven3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seven3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seven4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seven4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seven5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seven5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seven5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seven5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "IR",
+					"strict" : false
+				},
+				{
+					"name" : "track",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
